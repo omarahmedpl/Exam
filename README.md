@@ -90,8 +90,8 @@ This application is deployed on **AWS** for scalability and reliability.
 ## **Installation & Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/omarahmedpl/Exam.git
-   cd Exam
+   git clone https://github.com/omarahmedpl/Omar-Ahmed-Saeed---Job-Offer-Application.git
+   cd Omar-Ahmed-Saeed---Job-Offer-Application
    ```
 2. Install dependencies:
    ```bash
